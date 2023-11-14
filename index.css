@@ -1,0 +1,8 @@
+/* fixes the button at the bottom */
+#clear {
+    position: fixed;
+    bottom: 5%;
+    border-color: #9FA6B2;
+    border-width: 2px;
+    opacity: 0.9;
+}
